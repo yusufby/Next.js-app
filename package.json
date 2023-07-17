@@ -1,5 +1,5 @@
 {
-  "name": "my-app-next.js_framework",
+  "name": "c",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,5 +12,17 @@
     "next": "13.4.10",
     "react": "18.2.0",
     "react-dom": "18.2.0"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufby/Next.js-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufby/Next.js-app/issues"
+  },
+  "homepage": "https://github.com/yusufby/Next.js-app#readme"
 }
