@@ -5,4 +5,5 @@ const Ninjas = () => {
    </div>  );
 }
  
+
 export default Ninjas;
